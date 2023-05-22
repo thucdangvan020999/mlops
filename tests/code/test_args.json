@@ -1,0 +1,14 @@
+{
+  "shuffle": true,
+  "subset": 200,
+  "min_freq": 75,
+  "lower": true,
+  "stem": false,
+  "analyzer": "char_wb",
+  "ngram_max_range": 7,
+  "alpha": 0.0001,
+  "learning_rate": 0.013295092872590081,
+  "power_t": 0.1947427759305771,
+  "threshold": 0.5109798782089585,
+  "num_epochs": 10
+}
