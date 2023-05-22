@@ -5,7 +5,7 @@
 
 ## MLOps Lessons
 
-Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications.
+Learn how to develop, deploy and maintain production machine learning applications.
 
 - Lessons: [https://madewithml.com/](https://madewithml.com/#mlops)
 - Code: [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course)

@@ -12,8 +12,6 @@ PROJECTS_URL = (
 TAGS_URL = "https://raw.githubusercontent.com/GokuMohandas/Made-With-ML/main/datasets/tags.csv"
 ACCEPTED_TAGS = ["natural-language-processing", "computer-vision", "mlops", "graph-learning"]
 
-a = [1, 2, 3]
-
 # Directories
 BASE_DIR = Path(__file__).parent.parent.absolute()
 CONFIG_DIR = Path(BASE_DIR, "config")
